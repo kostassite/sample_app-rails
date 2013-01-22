@@ -22,8 +22,9 @@ group :test do
   gem 'rspec-rails', '2.9.0'
   gem 'capybara', '1.1.2'
   gem 'rb-fsevent', '~> 0.9.1'
-  gem 'growl', '1.0.3'
+  gem 'growl'
   gem 'guard-spork', '0.3.2'
   gem 'spork', '0.9.0'
 end
+
 
